@@ -1,0 +1,15 @@
+{
+    "name": "cubephp/cube-html",
+    "description": "cubephp html package",
+    "authors": [
+        {
+            "name": "Daniel Heath",
+            "email": "daniel@cubephp.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Cube\\Html\\": "src/"
+        }
+    }
+}
